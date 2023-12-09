@@ -1,0 +1,99 @@
+! 2023-07-14 https://www.reddit.com
+www.reddit.com##shreddit-async-loader.theme-beta
+
+! 2023-09-30 https://learn.logikaschool.com
+learn.logikaschool.com##.hkbehQ.styles-desktop__ContainerDesktopPopup--99260q.styles__Backdrop--5rit39
+
+! 2023-10-19 https://www.pcgamer.com
+www.pcgamer.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrapper
+www.pcgamer.com##.exit-intent__background.exit-intent
+
+! 2023-10-22 https://osvita.diia.gov.ua
+osvita.diia.gov.ua##.cookies-banner
+osvita.diia.gov.ua##.cookies-banner-wrapper
+osvita.diia.gov.ua##.footer
+
+! 2023-10-24 https://brainly.pl
+brainly.pl##.brn-fullscreen-toplayer
+brainly.pl###didomi-host
+
+! 2023-11-01 https://fandom.com
+fandom.com##.is-visible.fandom-sticky-header
+fandom.com##.global-navigation
+fandom.com##.page-side-tools
+fandom.com##.notifications-placeholder
+fandom.com###WikiaBar
+fandom.com##.discord-module.rail-module
+fandom.com##.recentImages__container
+fandom.com##.page__right-rail
+fandom.com##.global-registration-buttons
+fandom.com##.official-wiki-badge
+fandom.com##a.page-header__action-button.wds-is-text.wds-button
+fandom.com##.page-header__actions
+fandom.com##.global-footer
+
+! 2023-11-03 https://slimerancher.fandom.com
+slimerancher.fandom.com##.fandom-community-header > .fandom-community-header__local-navigation > .wds-tabs > .explore-menu.wds-dropdown
+
+! 2023-11-06 https://mega.nz
+mega.nz##.public-service-anouncement.body.bottom-info
+
+! 2023-11-12:2023-11-25 https://music.youtube.com
+music.youtube.com###contentContainer > .ytmusic-app.style-scope:style(border:none !important)
+music.youtube.com###divider
+music.youtube.com###guide-spacer
+music.youtube.com###header > .ytmusic-section-list-renderer.style-scope
+music.youtube.com###right-content
+music.youtube.com##.search-icon
+music.youtube.com##.ytmusic-app-layout.style-scope
+music.youtube.com##.ytmusic-carousel-shelf-basic-header-renderer.style-scope.image
+music.youtube.com##.ytmusic-carousel-shelf-basic-header-renderer.style-scope.text.strapline
+music.youtube.com##.ytmusic-guide-entry-renderer.style-scope.guide-icon
+music.youtube.com##.ytmusic-guide-section-renderer.style-scope > yt-button-shape
+music.youtube.com##.ytmusic-menu-navigation-item-renderer.style-scope.icon
+music.youtube.com##.ytmusic-menu-service-item-renderer.style-scope.icon
+music.youtube.com##.ytmusic-message-renderer.style-scope.tab-icon
+music.youtube.com##.ytmusic-nav-bar.style-scope.left-content
+music.youtube.com##.ytmusic-play-button-renderer.style-scope.icon
+music.youtube.com##.ytmusic-player-bar.style-scope.toggle-player-page-button > .tp-yt-paper-icon-button.style-scope
+music.youtube.com##.ytmusic-search-box.style-scope.search-icon > .tp-yt-paper-icon-button.style-scope
+music.youtube.com##.ytmusic-toggle-menu-service-item-renderer.style-scope.icon
+music.youtube.com##div.ytmusic-grid-renderer:nth-child(2)
+music.youtube.com##picture.ytmusic-fullbleed-thumbnail-renderer
+music.youtube.com##tp-yt-iron-icon.ytmusic-search-suggestion.style-scope
+music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container.style-scope > .ytmusic-popup-container.style-scope
+music.youtube.com##ytmusic-guide-entry-renderer.ytmusic-guide-section-renderer.style-scope:nth-of-type(4) > .ytmusic-guide-entry-renderer.style-scope
+music.youtube.com##ytmusic-nav-bar.ytmusic-app.style-scope:style(z-index:4 !important)
+music.youtube.com##ytmusic-search-box.style-scope:style(max-width:none !important)
+
+! 2023-11-15 https://www.patreon.com
+www.patreon.com###locked-post-join-modal
+
+! 2023-11-18 https://www.youtube.com
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###copyright
+www.youtube.com###guide-links-secondary
+www.youtube.com###guide-links-primary
+
+! 2023-11-27 https://warframe.fandom.com
+warframe.fandom.com##.right.side-bt-container
+warframe.fandom.com##.left.side-bt-container
+warframe.fandom.com####.fandom-community-header__background:style(background-image:var(--theme-body-background-image, url("https://cdn.discordapp.com/attachments/868412387135475734/1178759733579100304/cover8.jpg")))
+
+! 2023-11-27 https://naurok.com.ua
+naurok.com.ua##div.col-xs-4.col-sm-4.col-md-4 > .text-center
+naurok.com.ua##.fadeInDown.animated.text-right
+naurok.com.ua##.row:style(opacity:100% !important)
+naurok.com.ua##.failed
+
+! 2023-11-29 https://booknet.ua
+booknet.ua##.open.bn_cookies
+||st.booknet.ua/uploads/ad$image
+
+! 2023-12-01 https://www.youtube.com
+www.youtube.com##.yt-chip-cloud-renderer.style-scope
+
